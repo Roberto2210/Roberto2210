@@ -6,8 +6,8 @@ Construyo aplicaciones web y móviles con **TypeScript, Python y PostgreSQL**, y
 
 ```
 roberto@poza-rica:~$ cat ahora.txt
-→ Carril de pruebas con IA para Sistemas MIG (Travelnet): SKILLs de Claude Code,
-  pruebas en navegador con Playwright y auditorías de seguridad (ZAP, Semgrep, Trivy).
+→ Automatización de pruebas con IA para una empresa de tecnología del sector turismo:
+  Claude Code, pruebas en navegador con Playwright y pruebas de seguridad.
 → Neyfit: SaaS para gimnasios con cobro recurrente, app Android y +1,000 pruebas.
 ```
 
